@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Property43 Limited</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Property43 Logo" class="logo"/>
+    <h1>Welcome to Property43</h1>
+    <p>Your trusted provider of residential houses and flats</p>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Find Your Next Home</h2>
+      <p>Quality rentals in great locations.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact us: property43ltd@gmail.com | 07429552193</p>
+  </footer>
+</body>
+</html>
