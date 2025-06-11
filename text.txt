@@ -1,4 +1,0 @@
-index.html  
-style.css  
-/assets/images/logo.png  
-/assets/images/background.jpg
